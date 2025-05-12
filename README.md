@@ -1,6 +1,5 @@
 # Deep Learning 10-Level Progressive Project Roadmap
 
-Fantastic! 🌟 Given these clear role interests at Tesla (RL Engineer, Optimus) and NVIDIA (Deep Learning Accelerator, Robotics Platform, Simulation & Virtualization), here is a highly focused, progressive, practical project roadmap (10-level), escalating from easiest (Level 1) to hardest (Level 10).
 
 This practical hands-on project progression specifically aligns with the technologies, frameworks, languages, simulations, and cognitive-science principles cited in these roles:
 
@@ -238,27 +237,9 @@ Your strong GPT/LLM prompting skills provide major advantages throughout your ro
 | 9     | September   | Advanced skills (~60 mins/day)                 |
 | 10    | October     | Expert-level integration (60+ mins/day)        |
 
-> Completing even Level 6 or 7 within 3 months places you strongly for Fall internships; Levels 8-10 place you at the top-tier candidate status.
 
 ---
 
-## 🧠 Two Quick Clarifications for Immediate Next Steps
-
-1. **Starting Immediate Commitment (Level 1):**
-   Can we confidently commit to starting Level 1 (PyTorch image classifier) immediately, considering we have just 30 mins daily during May?
-
-2. **Targeted Internship Focus:**
-   Between Tesla’s RL-Optimus and NVIDIA’s Robotics and Deep Learning Accelerator roles, which one currently excites or motivates us the most?
-
----
-
-## 🎯 Strategic Tips for Maximized Results
-
-- **Portfolio Integration:** Actively document and update GitHub repositories clearly for every level completed.
-- **LinkedIn Exposure:** Every completed level provides perfect LinkedIn post content, clearly positioning your practical progress in front of Tesla and NVIDIA recruiters.
-- **Interview Narrative:** Clearly integrate projects as direct talking points during interviews—highlight cognitive science integrations (humanoid locomotion, human-robot interaction, decision-making models).
-
----
 
 ## 🌟 Final Summary
 
