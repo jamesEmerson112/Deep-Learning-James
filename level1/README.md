@@ -150,13 +150,13 @@ NVIDIA NGC (NVIDIA GPU Cloud) is a platform that provides GPU-optimized software
 ```
 
 ### Architecture
-- Input: 32x32 RGB images
+- Input: RGB images of pet faces (various sizes, resized as needed)
 - Model: Convolutional Neural Network (CNN)
   - Conv → ReLU → Pool → Conv → ReLU → Pool → FC → Dropout → FC → Softmax
-- Output: 10-class classification
+- Output: Emotion classification (e.g., Angry, Happy, Sad, etc.)
 
 ### Components
-- DataLoader: CIFAR-10 dataset with transforms
+- DataLoader: Loads pet facial expression images from class-named folders (e.g., Angry, Happy, Sad)
 - Model: Custom CNN
 - Loss Function: CrossEntropyLoss
 - Optimizer: Adam
@@ -164,7 +164,7 @@ NVIDIA NGC (NVIDIA GPU Cloud) is a platform that provides GPU-optimized software
 
 ### Design Decisions
 - Use dropout to prevent overfitting
-- Normalize CIFAR-10 images
+- Normalize images for consistent input
 - Use GPU if available
 
 ## 💬 Prompt Engineering Notes
